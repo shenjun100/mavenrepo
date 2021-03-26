@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-google-signin</artifactId>
   <versioning>
-    <latest>3.0.1-jitsi-7044397</latest>
-    <release>3.0.1-jitsi-7044397</release>
+    <latest>3.0.1-jitsi-7044640</latest>
+    <release>3.0.1-jitsi-7044640</release>
     <versions>
       <version>3.0.1-jitsi-6016255</version>
       <version>3.0.1-jitsi-6051026</version>
@@ -27,7 +27,10 @@
       <version>3.0.1-jitsi-7044238</version>
       <version>3.0.1-jitsi-7044333</version>
       <version>3.0.1-jitsi-7044397</version>
+      <version>3.0.1-jitsi-7044569</version>
+      <version>3.0.1-jitsi-7044607</version>
+      <version>3.0.1-jitsi-7044640</version>
     </versions>
-    <lastUpdated>20210326064617</lastUpdated>
+    <lastUpdated>20210326072647</lastUpdated>
   </versioning>
 </metadata>
