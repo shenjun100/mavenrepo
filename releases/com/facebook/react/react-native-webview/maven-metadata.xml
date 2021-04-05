@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-webview</artifactId>
   <versioning>
-    <latest>11.0.2-jitsi-7080058</latest>
-    <release>11.0.2-jitsi-7080058</release>
+    <latest>11.0.2-jitsi-7130322</latest>
+    <release>11.0.2-jitsi-7130322</release>
     <versions>
       <version>10.9.0-jitsi-6016255</version>
       <version>10.9.0-jitsi-6051026</version>
@@ -40,7 +40,8 @@
       <version>11.0.2-jitsi-7048297</version>
       <version>11.0.2-jitsi-7052167</version>
       <version>11.0.2-jitsi-7080058</version>
+      <version>11.0.2-jitsi-7130322</version>
     </versions>
-    <lastUpdated>20210330094950</lastUpdated>
+    <lastUpdated>20210405052704</lastUpdated>
   </versioning>
 </metadata>
