@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-device-info</artifactId>
   <versioning>
-    <latest>8.0.0-jitsi-7712813</latest>
-    <release>8.0.0-jitsi-7712813</release>
+    <latest>8.0.0-jitsi-7717952</latest>
+    <release>8.0.0-jitsi-7717952</release>
     <versions>
       <version>8.0.0-jitsi-7033206</version>
       <version>8.0.0-jitsi-7038792</version>
@@ -47,7 +47,8 @@
       <version>8.0.0-jitsi-7712513</version>
       <version>8.0.0-jitsi-7712686</version>
       <version>8.0.0-jitsi-7712813</version>
+      <version>8.0.0-jitsi-7717952</version>
     </versions>
-    <lastUpdated>20210611152857</lastUpdated>
+    <lastUpdated>20210612054521</lastUpdated>
   </versioning>
 </metadata>
